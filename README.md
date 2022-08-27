@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-🤝 Reach out to me here:
+📫 How to reach me:
 <div id="badges"> 
   <a href="https://www.linkedin.com/in/jonasfockstedt/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge alt="LinkedIn Badge"/>
   </a>
  </div>
  
- 🔭 I'm currently looking into private data analysis projects </br>
- 🌱 I'm currently learning GCP
+ 🔭 I'm currently looking into private data analysis projects
+                                                                                                                               
+ 🌱 I'm currently learning Machine Learning and Data Analysis in GCP
  
  
  Languages and Tools:
