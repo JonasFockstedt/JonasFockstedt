@@ -11,7 +11,7 @@ DevOps/ SRE/ Data Scientist who enjoys everything data 👨‍💻
  
  🔭 I'm currently looking into private data analysis projects
                                                                                                                                
- 🌱 I'm currently learning Machine Learning and Data Analysis in GCP
+ 🌱 I'm currently learning Machine Learning and Data Analysis in GCP as well as Go
  
  
  Languages and Tools:
