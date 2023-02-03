@@ -17,6 +17,7 @@ DevOps/ SRE/ Data Scientist who enjoys everything data 👨‍💻
  Languages and Tools:
  <div id"tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" heigt=40 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" heigt=40 width=40>
